@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">Les Bonnes Affaires De Bibi</string>
+    <string name="app_name">LesBonnesAffairesDeBibi.fr</string>
+    <string name="AddEntryActivityTitle">LesBonnesAffairesDeBibi.fr</string>
+    <string name="ContactSellerActivity">LesBonnesAffairesDeBibi.fr</string>
+    <string name="DetailEntryActivityTitle">LesBonnesAffairesDeBibi.fr</string>
+    <string name="EditEntryActivityTitle">LesBonnesAffairesDeBibi.fr</string>
+    <string name="FavoriteActivityTitle">LesBonnesAffairesDeBibi.fr</string>
+    <string name="HomepageActivityTitle">LesBonnesAffairesDeBibi.fr</string>
+    <string name="connexion_l_application_message_manager">Connexion à l\'application Message Manager</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="vider">Vider</string>
+    <string name="search_hint" />
+    <string name="app_search" />
+    <string name="menu_add">Déposer une annonce</string>
+    <string name="menu_edit">Modifier une annonce</string>
+    <string name="menu_favorite">Favoris</string>
+    <string name="menu_home">Accueil</string>
 </resources>
